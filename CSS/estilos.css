@@ -1,0 +1,92 @@
+* {
+  color : blue;
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: antiquewhite;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+p , span{
+    
+    width: 300px;
+
+}
+/**
+comentario
+*/
+h1{
+  
+    border: 1px solid black;
+    padding: 30px 15px 10px 15px;
+    
+    margin: 40px 10px 20px;
+    background-color: lightcyan;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+}
+
+section{
+  width: 150px;
+  border: 150px solid green;
+  padding: 50px 50px ;
+  margin: 20px;
+  float: left;
+  text-align: center;
+}
+
+#mi_parrafo{
+  width: 30px;
+  text-align: center;
+ 
+}
+.color{
+  background: #DBF5B2 url("ar") repeat-y scroll 50% 0%
+}
+.estaesmiclase{
+  font-weight: bold;
+  margin: 10px;
+  box-shadow: 2px 2px 7px 1px #1C6EA4;
+  padding: 20px 30px 10px 30px; 
+  float 
+  
+ 
+}
+section h2{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  box-sizing: border-box;
+}
+.menu {
+  width: 25%;
+  float: left;
+  border : 10px solid #1C6EA4;
+  background: rgba(0, 128, 0, 1) 
+  
+}
+.mini{
+  text-shadow: 1px 2px 2px #1C6EA4;
+}
+.main {
+  width: 75%;
+  float: left;
+  box-sizing: border-box;
+}
+.box {
+  background-color: #567895;
+  
+}
+.estilo{
+  outline-style: double ;
+  position: ;
+}
+
